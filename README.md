@@ -1,15 +1,16 @@
 
-
 <h1 align="center">Hi 👋, I'm Shaik Aisha</h1>
 <h3 align="center">A passionate programmer and web developer from India</h3>
 
 <animated-image data-catalyst="" style="width: 500px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="Coder GIF" height="400" data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" target="_blank">
-  
+
 - 🔭 I’m currently working on **MERN Stack project**
 
 - 📫 How to reach me **aishashaik383@gmail.com**
+
+- 📄 Know about me [https://resume.io/r/sj3DaL6i0](https://resume.io/r/sj3DaL6i0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
